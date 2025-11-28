@@ -47,7 +47,6 @@ Run the executable in test mode (e.g., ./DigitRecognizer test) to evaluate accur
 Run the executable in draw/test mode (e.g., ./DigitRecognizer draw) — draw a digit using keyboard/terminal interface and get the model’s prediction.
 
 Example Usage
-```
 # To train:
 ./DigitRecognizer train
 
@@ -56,7 +55,7 @@ Example Usage
 
 # To draw and recognize:
 ./DigitRecognizer draw
-```
+
 ## Limitations / Known Issues
 
  - No GUI — drawing in terminal may be clunky depending on terminal support
